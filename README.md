@@ -1,4 +1,5 @@
-# Java_Notes
+#
+Java_Notes
 
 - Print
 ```java
@@ -11,10 +12,10 @@ System.out.println("Java rocks!");
 ```java
 int debt;
 int bank;
-debt = 0
-bank = 0
-bank + bank + 1
-debt + debt + 2
+debt = 0;
+bank = 0;
+bank + bank + 1;
+debt + debt + 2;
 
 System.out.println("You have $"+bank+" in the bank and $"+debt+" in debut");
 ```
